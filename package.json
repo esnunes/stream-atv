@@ -1,0 +1,50 @@
+{
+  "name": "stream-atv",
+  "version": "0.0.0",
+  "description": "command line interface to streaming video (including subtitles) to apple tv",
+  "main": "lib/index.js",
+  "bin": "bin/stream-atv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Eduardo Nunes",
+    "email": "esnunes@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Eduardo Nunes",
+      "email": "esnunes@gmail.com"
+    }
+  ],
+  "keywords": [
+    "appletv",
+    "streaming",
+    "video"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/esnunes/stream-atv.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/esnunes/stream-atv/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/esnunes/stream-atv/issues"
+  },
+  "dependencies": {
+    "airplay": "0.0.3",
+    "airplay-js": "^0.2.6",
+    "commander": "^2.5.1",
+    "express": "^4.10.4",
+    "iconv": "^2.1.4",
+    "ip": "^0.3.2",
+    "node-captions": "^0.2.6",
+    "node-uuid": "^1.4.2",
+    "rimraf": "^2.2.8",
+    "rsvp": "^3.0.14"
+  }
+}
