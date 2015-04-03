@@ -1,6 +1,6 @@
 {
   "name": "stream-atv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "command line interface to streaming video (including subtitles) to apple tv",
   "main": "lib/index.js",
   "bin": "bin/stream-atv.js",
