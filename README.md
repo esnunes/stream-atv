@@ -7,11 +7,6 @@ command line interface to streaming video (including subtitles) to apple tv.
 npm install -g stream-atv
 ```
 
-## usage
-
-```bash
-```
-
 ### examples
 
 1. stream given video and subtitle to apple tv
